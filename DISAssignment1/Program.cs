@@ -388,7 +388,7 @@ namespace Assignment1_F19
                             char key = output[k];
                             outputnum[k] = dictionary[key];
                         }
-                        //Referenced https://stackoverflow.com/a/9564827/11846746 for logic to convert int array to a number
+                        //Referenced https://stackoverflow.com/a/9564827/11846746 at Sep 21 2019 at 9:00 pm for logic to convert int array to a number
                         int fnum = 0;
                         for (int l = 0; l < firstnum.Length; l++)
                         {
