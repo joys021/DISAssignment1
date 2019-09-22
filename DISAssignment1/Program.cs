@@ -328,11 +328,11 @@ namespace Assignment1_F19
 
                 string f, s, o;
                 //        Console.WriteLine("Enter the first word");
-                f = "SEND";
+                f = "UBER";
                 //          Console.WriteLine("Enter the first word");
-                s = "MORE";
+                s = "COOL";
                 //            Console.WriteLine("Enter the output word");
-                o = "MONEY";
+                o = "UNCLE";
                 //Converting the string inputs to char array
                 char[] first = f.ToCharArray();
                 char[] second = s.ToCharArray();
